@@ -1,4 +1,4 @@
-# Octo Kitties say "Want Milk?"
+# Octo Kitties always ask for more milk
 
      /\_/\          '-___-'          /\_/\
     / -.- \         / 0.0 \         / 0.0 \
